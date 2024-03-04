@@ -2,7 +2,7 @@
     --font-primaria: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     --cor-primaria: #023047;
     --cor-secundaria: #219ebc;
-    --cor-secundaria-rgb: 33, 158, 188;
+    --cor-secundaria-rgb: 33, 158, 188; /* Usado para aplicar opacidade a cor usando rgba */
     --cor-terciaria: #ffb703;
     --cor-quatenaria: #fb8500;
     --transparent: #00000000;
